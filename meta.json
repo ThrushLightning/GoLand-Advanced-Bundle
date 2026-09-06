@@ -1,0 +1,23 @@
+{
+  "repo": "goland-advanced-bundle",
+  "product": "GoLand Advanced Bundle",
+  "kind": "dev",
+  "install_type": "toolix",
+  "install_url": "https://toolix.me/",
+  "batch": "new3",
+  "format": "license-md-toolix-v1",
+  "category": "dev",
+  "topics": [
+    "goland-ide",
+    "go-development",
+    "goroutine-debug",
+    "jetbrains-go",
+    "module-aware",
+    "goland-setup-failed-fix",
+    "how-to-install-goland",
+    "goland-windows",
+    "goland-desktop-2026",
+    "goland-desktop-package"
+  ],
+  "site": "toolix.me"
+}
